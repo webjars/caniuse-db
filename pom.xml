@@ -7,7 +7,7 @@
   </parent>
   <groupId>org.webjars</groupId>
   <artifactId>caniuse-db</artifactId>
-  <version>1.0.30000034</version>
+  <version>1.0.30000035-SNAPSHOT</version>
   <name>caniuse-db</name>
   <description>WebJar for raw caniuse support data</description>
   <url>http://webjars.org</url>
@@ -40,7 +40,7 @@
     <url>http://github.com/webjars/caniuse-db</url>
     <connection>scm:git:https://github.com/webjars/caniuse-db.git</connection>
     <developerConnection>scm:git:https://github.com/webjars/caniuse-db.git</developerConnection>
-    <tag>caniuse-db-1.0.30000034</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <build>
